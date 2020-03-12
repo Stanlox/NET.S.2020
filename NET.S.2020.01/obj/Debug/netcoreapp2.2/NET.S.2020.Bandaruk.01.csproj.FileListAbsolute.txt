@@ -1,0 +1,11 @@
+D:\Visual Studio\NET.S.2020.Bandaruk.01\bin\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.deps.json
+D:\Visual Studio\NET.S.2020.Bandaruk.01\bin\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.runtimeconfig.json
+D:\Visual Studio\NET.S.2020.Bandaruk.01\bin\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.runtimeconfig.dev.json
+D:\Visual Studio\NET.S.2020.Bandaruk.01\bin\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.dll
+D:\Visual Studio\NET.S.2020.Bandaruk.01\bin\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.pdb
+D:\Visual Studio\NET.S.2020.Bandaruk.01\obj\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.csprojAssemblyReference.cache
+D:\Visual Studio\NET.S.2020.Bandaruk.01\obj\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.csproj.CoreCompileInputs.cache
+D:\Visual Studio\NET.S.2020.Bandaruk.01\obj\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.AssemblyInfoInputs.cache
+D:\Visual Studio\NET.S.2020.Bandaruk.01\obj\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.AssemblyInfo.cs
+D:\Visual Studio\NET.S.2020.Bandaruk.01\obj\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.dll
+D:\Visual Studio\NET.S.2020.Bandaruk.01\obj\Debug\netcoreapp2.2\NET.S.2020.Bandaruk.01.pdb
