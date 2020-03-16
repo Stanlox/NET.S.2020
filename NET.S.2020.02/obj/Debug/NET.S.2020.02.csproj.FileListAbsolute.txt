@@ -1,7 +1,0 @@
-D:\Visual Studio\NET.S.2020.02\obj\Debug\NET.S.2020.02.csprojAssemblyReference.cache
-D:\Visual Studio\NET.S.2020.02\obj\Debug\NET.S.2020.02.csproj.CoreCompileInputs.cache
-D:\Visual Studio\NET.S.2020.02\bin\Debug\NET.S.2020.02.exe.config
-D:\Visual Studio\NET.S.2020.02\bin\Debug\NET.S.2020.02.exe
-D:\Visual Studio\NET.S.2020.02\bin\Debug\NET.S.2020.02.pdb
-D:\Visual Studio\NET.S.2020.02\obj\Debug\NET.S.2020.02.exe
-D:\Visual Studio\NET.S.2020.02\obj\Debug\NET.S.2020.02.pdb
