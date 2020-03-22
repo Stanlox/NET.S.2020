@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.S.2020.04", "NET.S.2020.04.csproj", "{5857F07B-CB11-4D35-B441-1783142F981C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET.S.2020.04.UnitTests", "..\FindGCD.Tests\NET.S.2020.04.UnitTests.csproj", "{AE5E638C-4F23-4003-9897-033F96CC1E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5857F07B-CB11-4D35-B441-1783142F981C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5857F07B-CB11-4D35-B441-1783142F981C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5857F07B-CB11-4D35-B441-1783142F981C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5857F07B-CB11-4D35-B441-1783142F981C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5E638C-4F23-4003-9897-033F96CC1E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5E638C-4F23-4003-9897-033F96CC1E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5E638C-4F23-4003-9897-033F96CC1E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5E638C-4F23-4003-9897-033F96CC1E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29F7288F-24C5-461D-981A-426396D04648}
+	EndGlobalSection
+EndGlobal
