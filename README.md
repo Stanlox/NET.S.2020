@@ -1,2 +1,3 @@
-#NET.S.2020.Bandaruk
-Homework for .NET course EPAM 2020
+# NET.S.2020.Banadruk
+***
+## Homework for courses .NET EPAM 2020 
